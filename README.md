@@ -5,14 +5,19 @@
 </p>
 
 This project contains a deep neural net model for fully-automated detection and segmentation of metastatic prostate cancer lesions in whole-body PET/CT images (imaged with [18F]DCFPyL).
+
+<br/>
 The model architecture, training methodology, and testing results are available in the following publication:
+
 *Xu Y, Klyuzhin I, Harsini S, Ortiz A, Zhang S, Bénard F, Dodhia R, Uribe CF, Rahmim A, Lavista Ferres J. Automatic segmentation of prostate cancer metastases in PSMA PET/CT images using deep neural networks with weighted batch-wise dice loss. Comput Biol Med. 2023 May;158:106882*
 https://doi.org/10.1016/j.compbiomed.2023.106882
 PMID: 37037147
 
 Required model inputs:
+
 [list model inputs]
 
+<br/>
 <p align="left">
   <a href="https://www.bccrc.ca/dept/io-programs/qurit/"><img src="https://www.bccrc.ca/dept/io-programs/qurit/sites/qurit/files/FINAL_QURIT_PNG_60.png" height="70"/></a>
 </p>
