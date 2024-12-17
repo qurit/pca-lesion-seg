@@ -1,0 +1,28 @@
+name: proscancer_work_env
+
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python>=3.7
+  - numpy>=1.17
+  - pandas
+  - matplotlib
+  - ipykernel 
+  - jupyterlab  
+  - pytorch==1.12.1
+  - torchaudio==0.12.1
+  - cudatoolkit=11.3
+  - torchvision==0.13.1
+  - scipy
+  - pip
+  - scikit-image
+  - ipywidgets
+  - scikit-learn
+  - tqdm
+  - pip:
+      - opencv-python
+      - segmentation_models_pytorch==0.3.1
+      - pillow
