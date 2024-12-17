@@ -4,7 +4,7 @@
     <img alt="PyPI - License" src="https://img.shields.io/badge/license-MIT-blue" height="18" />
 </p>
 
-This project contains a deep neural net model for fully-automated detection and segmentation of metastatic prostate cancer lesions in whole-body PET/CT images (imaged with [18F]DCFPyL).
+This project contains the training/inference code and deep neural net model for fully-automated detection and segmentation of metastatic prostate cancer lesions in whole-body PET/CT images (imaged with [18F]DCFPyL).
 
 <br/>
 The model architecture, training methodology, and testing results are available in the following publication:
