@@ -91,7 +91,7 @@ This project is licenced under the MIT License.
 
 ## How to cite
 
-If you are using this model in your projects, kindly include the following citation:
+If you are using this model in your projects, please include the following citation:
 
 *Xu Y, Klyuzhin I, Harsini S, Ortiz A, Zhang S, Bénard F, Dodhia R, Uribe CF, Rahmim A, Lavista Ferres J. Automatic segmentation of prostate cancer metastases in PSMA PET/CT images using deep neural networks with weighted batch-wise dice loss. Comput Biol Med. 2023 May;158:106882*
 
